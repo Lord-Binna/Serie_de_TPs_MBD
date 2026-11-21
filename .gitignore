@@ -1,0 +1,7 @@
+slprj/
+*.autosave
+*.asv
+*.slxc
+*.mex*
+*_ert_rtw/
+*_grt_rtw/
